@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
     <head>
-        <title>WASP AFRICA SUBSCRIPTION SERVICE</title>
+        <title>WASP AFRICA SUBSCRIPTIONS SERVICE</title>
         <link rel="icon" href="images/favicon.ico" type="image/ico" sizes="16x16 32x32">
 	<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16 32x32">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,13 +15,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <meta name="keywords" content="WASP AFRICA SUBSCRIPTION SERVICE"/>
         <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
         <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-
     </head>
 
     <body>
 
         <div class="header">
-
+            <img src="http://dosika.co.ke/sandbox/subscription/images/wasp_logo.png"/>
             <h1>Subscribe Now</h1>
         </div>
 
@@ -87,7 +86,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 //Open the URL to send the message
                 $response = httpRequest($urltouse);
                 if ($debug) {
-                    echo 'Thank you for subscribing!';
+                    echo 'Thank you for subscribing! Check your phone 4 the message.';
                     //echo "Response: <br><pre>".
                     //str_replace(array("<",">"),array("&lt;","&gt;"),$response).
                     //"</pre><br>"; 
