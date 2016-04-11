@@ -21,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
         <div class="header">
             <img src="http://dosika.co.ke/sandbox/subscription/images/wasp_logo.png"/>
-            <h1>Subscribe Now</h1>
+            <h1>Subscribe Now!</h1>
         </div>
 
         <div class="mail-form shadow">
